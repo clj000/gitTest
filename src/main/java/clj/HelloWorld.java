@@ -12,5 +12,6 @@ public class HelloWorld {
         System.out.println("branch2...");
         System.out.println("master2...");
         System.out.println("更新的项目...");
+        System.out.println("在gitHub进行的更新");
     }
 }
