@@ -10,5 +10,6 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("branch1...");
         System.out.println("branch2...");
+        System.out.println("master2...");
     }
 }
